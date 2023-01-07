@@ -4,7 +4,7 @@ import personalizacion.Personalizacion;
 
 public interface IProducto {
 
-  public double getPrecio();
+  double getPrecio();
 
-  public void setPersonalizacion(Personalizacion personalizacion);
+  void setPersonalizacion(Personalizacion personalizacion);
 }

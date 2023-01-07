@@ -4,7 +4,6 @@ import personalizacion.Personalizacion;
 
 public abstract class Producto implements IProducto {
 
-  protected double precio;
   protected Personalizacion personalizacion;
 
   @Override

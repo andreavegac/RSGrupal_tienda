@@ -2,7 +2,7 @@ package accesorios;
 
 public interface Dibujo {
 
-  public void añadirAPrenda();
+  void añadirAPrenda();
 
-  public double getPrecio();
+  double getPrecio();
 }
