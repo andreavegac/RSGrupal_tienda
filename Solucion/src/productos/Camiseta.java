@@ -14,9 +14,4 @@ public class Camiseta extends Producto {
     return PRECIO_BASE;
   }
 
-  @Override
-  public String toString() {
-    return "Camiseta [PRECIO_BASE=" + PRECIO_BASE + "]";
-  }
-
 }
