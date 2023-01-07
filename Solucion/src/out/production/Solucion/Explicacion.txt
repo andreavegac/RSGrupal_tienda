@@ -1,0 +1,2 @@
+Todo el decorator está dentro del paquete accesorios.
+El adapter queda encapsulado en facturación.
